@@ -1,0 +1,5 @@
+node_modules/
+private/
+*.csv
+test-results/
+.DS_Store

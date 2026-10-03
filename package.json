@@ -1,0 +1,7 @@
+{
+  "name": "eiken-vocabulary-review",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test tests/engine.test.js", "start": "node scripts/serve.js" }
+}
